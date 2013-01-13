@@ -2,7 +2,8 @@
  *
  * IBM i5/OS UIM (user interface manager) brush file.
  *
- * Written by Loyd Goodbar <loyd@blackrobes.net>, 2009, 2011.
+ * Written by Hanna Goodbar <hanna.goodbar@gmail.com>
+ * (formerly Loyd Goodbar <loyd@blackrobes.net>), 2009, 2011.
  * getFunctions() code from helen at alexgorbatchev.com forums.
  *
  * Adapted for SyntaxHighlighter v3.

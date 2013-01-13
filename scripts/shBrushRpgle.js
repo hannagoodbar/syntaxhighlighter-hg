@@ -3,7 +3,8 @@
  * IBM ILE RPG brush file.
  * Current for version V6R1
  *
- * Written by Loyd Goodbar <loyd@blackrobes.net>, 2009, 2011.
+ * Written by Hanna Goodbar <hanna.goodbar@gmail.com>
+ * (formerly Loyd Goodbar <loyd@blackrobes.net>), 2009, 2011.
  * getFunctions() code from helen at alexgorbatchev.com forums.
  *
  * Updated for SyntaxHighlighter 3.0
